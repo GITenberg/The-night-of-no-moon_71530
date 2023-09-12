@@ -1,0 +1,30 @@
+_repo: The-night-of-no-moon_71530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    aliases:
+    - Fyfe, Horace Bowne
+    - Fyfe, H.B.
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_issued: '2023-08-31'
+identifiers:
+  gutenberg: '71530'
+language: en
+pgterms:marc905: 20230812094637fyfe
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The night of no moon
+url: http://www.gutenberg.org/ebooks/71530
